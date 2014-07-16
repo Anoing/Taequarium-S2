@@ -1,0 +1,18 @@
+.navbar-default {
+	background-color:#4c66a4;
+	height: 42px;
+}
+.navbar {
+	height: 42px;
+	min-height: 42px;
+}
+.navbar-brand {
+	padding: 0;
+}
+.navbar-form {
+	padding: 0;
+	margin: 0;
+}
+.navbar-nav > li > a {
+	padding: 0;
+}

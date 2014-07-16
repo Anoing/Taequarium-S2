@@ -1,0 +1,24 @@
+.bg{
+	width:1583px;
+	height: 500px;
+}
+.carousel {
+	margin-bottom: 60px;
+	margin-top: -90px;
+}
+.glyphicon-chevron-left:before {
+	content: "\e079";
+}
+.glyphicon-chevron-right:before{
+	content: "\e080";
+}
+.featurette-divider {
+	margin-top: 100px;
+}
+.featurette-heading {
+	margin-top: 100px;
+}
+.featurette-image img {
+	margin-top: 100px;
+}
+
